@@ -1,1 +1,3 @@
+com\util\entity\user\User.class
+com\util\entity\constant\Role.class
 com\util\entity\EntityApp.class
