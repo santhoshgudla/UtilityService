@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.util.entity</groupId>
-    <artifactId>EntityModels</artifactId>
-    <version>0.1</version>
+    <artifactId>entitymodel</artifactId>
+    <version>0.3</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
